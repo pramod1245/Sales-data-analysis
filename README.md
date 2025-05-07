@@ -7,7 +7,6 @@ Superstore is close to a real-world fake dataset with 10,000 records of sales in
 <h3 align="left">Languages and Tools Used</h3>
 <p>Python
 <br>SQL - Pandasql
-<br>Tableau
 <br>Excel</p>
 
 <h3 align="left"> Highlights of Sales Analysis </h3>
@@ -15,11 +14,11 @@ California state contributed the highest sales in all years generating the highe
 
 
 
-[TABLEAU DASHBOARD](https://public.tableau.com/app/profile/dspr2717/viz/SuperstoreSalesAnalysisDashbaord/SuperStoreSalesAnalysisDashboard)
 
 
 
 
-<img width="994" alt="image" src="https://github.com/SreephaniDevireddy/SuperStore_Sales_Analysis/assets/116522153/c7316fcb-d928-4417-8961-0bb5952e3ddd">
+
+
 
 
